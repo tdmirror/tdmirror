@@ -19,6 +19,6 @@ Mitjançant la teva participació podrem saber quantes persones hi ha disponible
 Per a la majoria de mòbils funciona la versió 1. Si no us funciona, utilitzeu la versió 2 (és específica per a mòbils més moderns)
 
 
-[Versio 1](https://github.com/s3rrallonga/tsunami/raw/master/app/app-armeabi-v7a-release.apk)
+[Versio 1](https://github.com/tdmirror/tdmirror/raw/master/apk/app-tsunamidemocratic-v1.apk)
 
-[Versio 2](https://github.com/s3rrallonga/tsunami/raw/master/app/app-arm64-v8a-release.apk)
+[Versio 2](https://github.com/tdmirror/tdmirror/raw/master/apk/app-tsunamidemocratic-v2.apk)
